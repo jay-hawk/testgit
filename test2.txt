@@ -1,2 +1,3 @@
 second test file
 testing more commits
+stagging area diff
